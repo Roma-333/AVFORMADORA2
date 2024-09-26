@@ -1,0 +1,7 @@
+{
+  "name": "Exemplo001-Viacep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
